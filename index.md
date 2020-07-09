@@ -1,3 +1,6 @@
+# Tic Tac Toe
+[Here](tictactoe.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/EmreMotan/emremotan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
