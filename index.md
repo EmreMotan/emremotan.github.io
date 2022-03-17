@@ -1,9 +1,11 @@
-# Tic-Tac-Toe
+# Stay awhile and play some games
+
+## Tic-Tac-Toe
 ![Image](tictactoe.gif)
 
 [Play Tic-Tac-Toe!](tictactoe.html)
 
-# Pong
+## Pong
 ![Image](pong.gif)
 
 [Play Pong!](pong.html)
